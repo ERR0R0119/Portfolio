@@ -145,9 +145,3 @@ document.addEventListener("DOMContentLoaded", () => {
     mainPage.classList.add("visible");
   }, 4000);
 });
-
-{
-    "rewrites": [
-        {"source": "/(.*)", "destination": "/"}
-    ]
-}
