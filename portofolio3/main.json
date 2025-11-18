@@ -1,4 +1,3 @@
-
 # main.js
 const navLinks = document.querySelectorAll('.ul-list li a');
 const sections = document.querySelectorAll('section');
