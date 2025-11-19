@@ -175,6 +175,15 @@ hr {
   border-radius: 10px;
 }
 
+.home-container img {
+  width: 250px;       /* Adjust the size as needed */
+  height: 250px;      /* Makes it square */
+  object-fit: cover;  /* Ensures the image fills the box without distortion */
+  border-radius: 15px; /* Optional: Adds rounded corners for a nice effect */
+  display: block;
+  margin: auto;
+}
+
 /* fine home  */
 
 .about{
@@ -878,3 +887,4 @@ body {
     overflow-x: hidden;
   }
 }
+
