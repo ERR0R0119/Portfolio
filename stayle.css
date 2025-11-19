@@ -181,7 +181,7 @@ hr {
   object-fit: cover;  /* Ensures the image fills the box without distortion */
   border-radius: 15px; /* Optional: Adds rounded corners for a nice effect */
   display: block;
-  margin: auto;
+  margin: 160px 200px;
 }
 
 /* fine home  */
@@ -887,4 +887,5 @@ body {
     overflow-x: hidden;
   }
 }
+
 
