@@ -5,7 +5,7 @@ It is fully **responsive**, interactive, and visually appealing across desktop, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo]([loh-portfolio-b122510451.vercel.app](https://loh-portfolio-b122510451.vercel.app/))
+You can view the live website here: [Live Demo](https://loh-portfolio-b122510451.vercel.app/)
 
 ---
 
